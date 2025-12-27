@@ -2,7 +2,7 @@
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue.svg)](https://github.com/PowerShell/PowerShell)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6.svg)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/license-Proprietary-red.svg)]
+[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](https://github.com/SibtainOcn/Backup-Automation/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/SibtainOcn/Backup-Automation?style=social)](https://github.com/SibtainOcn/Backup-Automation/stargazers)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Backup--Automation-blue?logo=github)](https://github.com/SibtainOcn/Backup-Automation)
 
