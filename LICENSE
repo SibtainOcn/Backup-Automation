@@ -1,21 +1,89 @@
-MIT License
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2024 SibtainOcn
+Copyright (c) 2024-2025 SibtainOcn
+All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license agreement (the "Agreement") is a legal agreement between you (either an individual or a single entity, referred to as "Licensee") and SibtainOcn (the "Licensor") for the software product identified above, which includes computer software and may include associated media, printed materials, and online or electronic documentation (collectively, the "Software").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+BY ACCESSING, DOWNLOADING, INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT ACCESS, DOWNLOAD, INSTALL, COPY, OR USE THE SOFTWARE.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. GRANT OF LICENSE
+
+1.1 Limited Use License. Subject to the terms and conditions of this Agreement, Licensor grants Licensee a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to use the Software solely for personal, non-commercial purposes.
+
+1.2 Source Code Availability. The source code of the Software is made publicly available solely for purposes of transparency, security auditing, and verification. The availability of source code does not constitute a grant of any rights beyond those explicitly stated in Section 1.1.
+
+2. RESTRICTIONS AND PROHIBITIONS
+
+Licensee shall not, and shall not permit any third party to:
+
+2.1 Reproduce, copy, or duplicate the Software except as explicitly permitted herein;
+
+2.2 Distribute, publish, transmit, transfer, sell, rent, lease, lend, or sublicense the Software or any portion thereof to any third party;
+
+2.3 Modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based upon the Software or any portion thereof, except to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation;
+
+2.4 Remove, alter, or obscure any proprietary notices, labels, or marks on or within the Software;
+
+2.5 Use the Software for any commercial purpose or in any manner that competes with the Software or Licensor's business interests;
+
+2.6 Incorporate the Software or any portion thereof into any other software or product;
+
+2.7 Use the Software in any manner that violates any applicable local, state, national, or international law or regulation.
+
+3. INTELLECTUAL PROPERTY RIGHTS
+
+3.1 Ownership. The Software is licensed, not sold. Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights therein. This Agreement does not grant Licensee any rights to patents, copyrights, trade secrets, trademarks, or any other rights in respect to the Software.
+
+3.2 Contributions. Any feedback, suggestions, improvements, modifications, or contributions submitted by Licensee to Licensor shall become the sole and exclusive property of Licensor. Licensee hereby assigns all right, title, and interest in such contributions to Licensor without any obligation of compensation or attribution.
+
+3.3 Trademarks. Nothing in this Agreement grants Licensee any right to use the trademarks, service marks, trade names, logos, or product names of Licensor, except as required for reasonable and customary use in describing the origin of the Software.
+
+4. TERM AND TERMINATION
+
+4.1 Term. This Agreement is effective until terminated.
+
+4.2 Termination by Licensee. Licensee may terminate this Agreement at any time by ceasing all use of the Software and destroying all copies in Licensee's possession or control.
+
+4.3 Termination by Licensor. Licensor may terminate this Agreement immediately upon notice if Licensee breaches any provision of this Agreement. Upon termination, Licensee must immediately cease all use of the Software and destroy all copies.
+
+4.4 Survival. Sections 3, 5, 6, 7, and 8 shall survive any termination of this Agreement.
+
+5. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED.
+
+6. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, DATA LOSS, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, LICENSOR'S ENTIRE LIABILITY UNDER ANY PROVISION OF THIS AGREEMENT SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY LICENSEE FOR THE SOFTWARE.
+
+7. INDEMNIFICATION
+
+Licensee agrees to indemnify, defend, and hold harmless Licensor and its officers, directors, employees, agents, and affiliates from and against any and all claims, damages, obligations, losses, liabilities, costs, and expenses (including attorney's fees) arising from: (i) Licensee's use of the Software; (ii) Licensee's violation of any term of this Agreement; or (iii) Licensee's violation of any third party right, including intellectual property rights.
+
+8. GENERAL PROVISIONS
+
+8.1 Entire Agreement. This Agreement constitutes the entire agreement between Licensor and Licensee with respect to the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+8.2 Amendment. Licensor reserves the right to modify the terms of this Agreement at any time. Continued use of the Software following notice of such modifications shall constitute acceptance of the modified terms.
+
+8.3 Severability. If any provision of this Agreement is held to be unenforceable or invalid, such provision shall be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions shall continue in full force and effect.
+
+8.4 Waiver. The failure of Licensor to enforce any provision of this Agreement shall not be construed as a waiver of such provision or the right to enforce it at a later time.
+
+8.5 Assignment. Licensee may not assign or transfer this Agreement or any rights granted hereunder without the prior written consent of Licensor. Any attempted assignment in violation of this provision shall be void.
+
+8.6 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which Licensor resides, without regard to its conflict of law provisions.
+
+8.7 Export Compliance. Licensee agrees to comply with all applicable export and import laws and regulations in connection with the use of the Software.
+
+8.8 Contact Information. For questions concerning this Agreement or to request permissions beyond the scope of this license, contact:
+
+     GitHub: https://github.com/SibtainOcn
+     Project: https://github.com/SibtainOcn/Backup-Automation
+
+9. ACKNOWLEDGMENT
+
+BY USING THE SOFTWARE, LICENSEE ACKNOWLEDGES THAT LICENSEE HAS READ THIS AGREEMENT, UNDERSTANDS IT, AND AGREES TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+END OF LICENSE AGREEMENT
