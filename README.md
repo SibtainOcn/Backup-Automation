@@ -382,16 +382,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ---
 
-##  Repository Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SibtainOcn/Backup-Automation?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/SibtainOcn/Backup-Automation?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/SibtainOcn/Backup-Automation?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/SibtainOcn/Backup-Automation?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/SibtainOcn/Backup-Automation?style=flat-square)
-![GitHub watchers](https://img.shields.io/github/watchers/SibtainOcn/Backup-Automation?style=flat-square)
-
----
 
 <div align="center">
 
